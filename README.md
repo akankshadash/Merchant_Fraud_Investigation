@@ -33,6 +33,7 @@ Visualization:
 Exploratory Data Analysis using visualizations in R Notebook or Jupyter notebook format. (all train data to be used for this task)
 
 ● List down the insights/patterns observed from the visualizations 
+
 ● Explain the impact of most important attributes on target attribute observed from the visualizations.
 
 Observations: Is there any overfitting or underfitting problem? If yes, how do you address it?
