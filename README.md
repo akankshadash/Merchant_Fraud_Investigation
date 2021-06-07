@@ -9,12 +9,12 @@ You are expected to create an analytical and modelling framework to predict the 
 The data sets are provided as cited below:
 
 Target attribute: "fraudster" (yes – 1, no – 0)
-**
-Train:**
+
+**Train:
 
 train_merchant_data.csv : Merchant Information train_order_data.csv : Order Information train.csv : Target Label Information
-**
-Test:**
+
+**Test:
 
 test_merchant_data.csv : Merchant Information test_order_data.csv : Order Information test.csv : Target is not available as it is to be predicted
 
@@ -29,7 +29,8 @@ Tasks:
 You are expected to create an analytical and modelling framework to predict the Merchant Fraudulency based on the quantitative and qualitative features provided in the datasets. You may derive new features from the existing features and also from the domain knowledge, which may help in improving the model efficiency.
 
 ****
-Visualization:****
+
+**Visualization:
 
 Exploratory Data Analysis using visualizations in R Notebook or Jupyter notebook format. (all train data to be used for this task)
 
@@ -39,10 +40,10 @@ Exploratory Data Analysis using visualizations in R Notebook or Jupyter notebook
 
 Observations: Is there any overfitting or underfitting problem? If yes, how do you address it?
 
-Evaluation Metric:
+**Evaluation Metric:
 
 Consider ‘F1-score’ of the fraudulent class as the error metric for classification task to tune the model
 
-Hints:
+**Hints:
 
 Both Python and R provide functions to convert IP string to numeric format which makes the number comparison easier.
